@@ -6,4 +6,9 @@ Noodles
 Biscuits
 chocolate
 
+Adding new recipes
+pasta
+pizza
+burger
+
 Thank you for coming and eating at HG
